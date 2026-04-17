@@ -13,6 +13,8 @@ I am a Second-year Artificial Intelligence student at **ERU** with a diverse tec
 * **Game Development:** Unity, Godot (Experienced in 2D/3D logic)
 * **Educational Coding:** Scratch, mBlock (Foundational logic training)
 * **AI & Tools:** IBM Watson, GitHub Student Pack, PyCharm, CLion
+* * **IDEs:** Android Studio, IntelliJ IDEA, PyCharm, CLion, VS Code
+* **Cloud & AI:** Google Colab, IBM Watson
 
 ---
 
